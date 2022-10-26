@@ -1,3 +1,4 @@
 desde la cuenta rodolfo antonio
 otro desde la cuenta de rodolfo antonio, el global aparece en rodanmuro
 este cambio no tiene registrado el rodolfoantonio en el config local, se ingresa con la llave de rodolfoantonio
+se cambio el archivo config local a name rodolfoantonio
