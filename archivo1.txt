@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 desde la cuenta rodolfo antonio
 otro desde la cuenta de rodolfo antonio, el global aparece en rodanmuro
 este cambio no tiene registrado el rodolfoantonio en el config local, se ingresa con la llave de rodolfoantonio
 se cambio el archivo config local a name rodolfoantonio
 xxx con correo xxx@correo.com
 a la rama rodolfo
+=======
+Este dato es desde la rama Rodolfo
+Una nueva línea
+una nueva línea
+otra linea con credenciales
+linea sin credenciales
+>>>>>>> e6817bb3c2e7a40e5ea9639b3fbfc5ccbbf5c6fb
